@@ -22,3 +22,6 @@ To duplicate a tnt, a block of notes must be placed next to the tnt to be duplic
 ### [1.16.40 - 1.16.100](https://cdn.discordapp.com/attachments/1087690020808298546/1095559743097016351/TNT_Dupper_1.16.40-1.mcpack)
 ### [1.17.10-1.19.20](https://cdn.discordapp.com/attachments/1087690020808298546/1095559957111390358/TNT_Dupper_BE.mcpack)
 ### [1.19.40 - 1.20.30+](https://cdn.discordapp.com/attachments/1087690020808298546/1095560208207577158/TNT_Duping_1.19.40.mcpack)
+
+---
+## [My Discord Server](https://discord.gg/96Uyt3KWT5)
